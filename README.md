@@ -20,4 +20,4 @@
 ### Open Source work:
 
 - Since July 2022, I have been part of [Wazuh](https://wazuh.com/)'s PyServer team (formerly Framework team). 
-- You can check my contributions [here](https://github.com/wazuh/wazuh/issues?q=assignee%3Afdalmaup).
+  - You can check my contributions [here](https://github.com/wazuh/wazuh/issues?q=assignee%3Afdalmaup).
