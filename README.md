@@ -6,11 +6,13 @@ Part of the Cloud Platform team at [Wazuh](https://wazuh.com/).
 
 <code><a href="https://python.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><a href="http://postgresql.org/"><img height="20" src="https://www.google.com/s2/favicons?domain=postgresql.org/"></a></code>
 <code><a href="https://docker.com"><img height="20" src="https://www.google.com/s2/favicons?domain=docker.com"></a></code>
 <code><a href="https://swagger.io"><img height="20" src="https://www.google.com/s2/favicons?domain=swagger.io"></a></code>
 <code><a href="https://aws.amazon.com"><img height="20" src="https://www.google.com/s2/favicons?domain=aws.amazon.com"></a></code>
 <code><a href="https://git-scm.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 ### Current learning
 
