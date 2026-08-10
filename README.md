@@ -23,3 +23,4 @@ Part of the Cloud Platform team at [Wazuh](https://wazuh.com/).
 
 - From July 2022 to September 2025, I have been part of [Wazuh](https://wazuh.com/)'s PyServer team (formerly Framework team). 
   - You can check my contributions [here](https://github.com/wazuh/wazuh/issues?q=assignee%3Afdalmaup).
+- Since October 2025, I am part of the Cloud Platform team at Wazuh, leading the team in designing and developing services ☁️.
