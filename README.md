@@ -16,7 +16,7 @@ Part of the Cloud Platform team at [Wazuh](https://wazuh.com/).
 
 ### Current learning
 
-- Rust <code><a href="https://www.rust-lang.org/"><center><img height="20" src="http://rust-lang.org/logos/rust-logo-128x128.png"></center></a></code>, through [**The Book**](https://doc.rust-lang.org/book/) and upcoming small projects.
+- Rust <code><a href="https://www.rust-lang.org/"><center><img height="20" src="http://rust-lang.org/logos/rust-logo-128x128.png"></center></a></code>, through upcoming small and OSS projects.
 - Machine Learning, through [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).
 
 ### Open Source work
