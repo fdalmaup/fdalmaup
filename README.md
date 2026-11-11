@@ -1,6 +1,6 @@
 ### Current work
 
-Part of the Cloud Platform team at [Wazuh](https://wazuh.com/).
+Part of the Software Engineering Studio at [Qubika](https://qubika.com/).
 
 ### Languages and Tools
 
